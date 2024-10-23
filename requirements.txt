@@ -1,0 +1,4 @@
+telebot
+speech_recognition
+gtts
+g4f
