@@ -5,7 +5,7 @@ from gtts import gTTS
 from g4f.client import Client
 
 # Токен вашего бота
-TOKEN = ''
+TOKEN = 'Your_BOT_TOKEN'
 bot = telebot.TeleBot(TOKEN)
 
 client = Client()
